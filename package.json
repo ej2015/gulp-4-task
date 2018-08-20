@@ -1,0 +1,25 @@
+{
+  "name": "gulp-task",
+  "version": "1.0.0",
+  "description": "Simple Gulp tasks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ej2015/gulp-4-task.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edgar",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.6",
+    "jshint-stylish": "^2.2.1"
+  }
+}
